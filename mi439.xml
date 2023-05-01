@@ -20,7 +20,7 @@
 <project path="device/qcom/common" name="MI439-CLO/android_device_qcom_common" remote="github" revision="tm2" />
 
 <!--- Vendor Blobs -->
-<project path="vendor/xiaomi/mi439" name="janakniraula/proprietary_vendor_xiaomi_mi439-merged" remote="github" clone-depth="1" revision="13" />
+<project path="vendor/xiaomi/mi439" name="MI439-CLO/proprietary_vendor_xiaomi_mi439-merged" remote="github" clone-depth="1" revision="13" />
 <project path="vendor/qcom/common" name="ThankYouMario/proprietary_vendor_qcom_common" remote="github" clone-depth="1" revision="topaz" />
 
 <!-- Vendor Opensource -->
