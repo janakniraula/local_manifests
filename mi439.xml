@@ -5,7 +5,7 @@
 <project path="packages/apps/GrapheneCam" name="MI439-CLO/android_packages_apps_GrapheneCam" remote="github" revision="topaz" clone-depth="1" />
 
 <!-- Kernel -->
-<project path="kernel/xiaomi/sdm439" name="jprimero15/kernel_xiaomi_sdm439" remote="github" clone-depth="1" revision="ksu" />
+<project path="kernel/xiaomi/sdm439" name="jprimero15/kernel_xiaomi_sdm439" remote="github" clone-depth="1" revision="topaz" />
 
 <!-- HALs -->
 <project path="hardware/mithorium" name="Mi-Thorium/android_hardware_mithorium-4.9" remote="github" clone-depth="1" revision="lineage-19.1-k4.9" />
@@ -54,16 +54,13 @@
 <project path="vendor/superior" name="RealNOOB/android_vendor_superior" remote="github" revision="test" />
 <project path="packages/modules/connectivity" name="RealNOOB/packages_modules_Connectivity" remote="github" revision="thirteen" />
 <project path="packages/apps/Launcher3" name="RealNOOB/packages_apps_Launcher3" remote="github" revision="thirteen" />
-<project path="packages/apps/Settings" name="RealNOOB/android_packages_apps_Settings" remote="github" revision="test" />
 <project path="vendor/support" name="RealNOOB/android_vendor_support" remote="github" revision="thirteen" />
 <project path="packages/services/Telecomm" name="RealNOOB/packages_services_Telecomm" remote="github" revision="thirteen" />
 <project path="packages/apps/ThemePicker" name="RealNOOB/android_packages_apps_ThemePicker" remote="github" revision="temp" />
 <project path="frameworks/native" name="RealNOOB/android_frameworks_native" remote="github" revision="temp" />
-<project path="packages/overlays/Themes" name="RealNOOB/android_packages_overlays_Themes" remote="github" revision="test" />
 <project path="packages/modules/Bluethooth" name="RealNOOB/packages_modules_Bluetooth" remote="github" revision="thirteen" />
 <project path="packages/apps/SuperiorLab" name="RealNOOB/android_packages_apps_SuperiorLab" remote="github" revision="test" />
 <project path="frameworks/base" name="RealNOOB/android_frameworks_base" remote="github" revision="temp" />
 <project path="packages/apps/WallpaperPicker2" name="minaripenguin/android_packages_apps_WallpaperPicker2" remote="github" revision="thirteen" />
-<project path="kernel/KernelSU" name="RealNOOB/platform_kernel_KernelSU" remote="github" revision="Thirteen" />
 
 </manifest>
