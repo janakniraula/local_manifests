@@ -59,7 +59,7 @@
 <project path="packages/apps/ThemePicker" name="RealNOOB/android_packages_apps_ThemePicker" remote="github" revision="temp" />
 <project path="frameworks/native" name="RealNOOB/android_frameworks_native" remote="github" revision="temp" />
 <project path="packages/modules/Bluethooth" name="RealNOOB/packages_modules_Bluetooth" remote="github" revision="thirteen" />
-<project path="packages/apps/SuperiorLab" name="RealNOOB/android_packages_apps_SuperiorLab" remote="github" revision="test" />
+<project path="packages/apps/Settings" name="RealNOOB/android_packages_apps_Settings" remote="github" revision="test" />
 <project path="frameworks/base" name="RealNOOB/android_frameworks_base" remote="github" revision="temp" />
 <project path="packages/apps/WallpaperPicker2" name="minaripenguin/android_packages_apps_WallpaperPicker2" remote="github" revision="thirteen" />
 
