@@ -24,4 +24,7 @@
 <project path="vendor/qcom/opensource/core-utils" name="PixelExperience/vendor_qcom_opensource_core-utils" remote="github" revision="thirteen" />
 <project path="vendor/qcom/opensource/commonsys-intf/bluetooth" name="MI439-CLO/vendor_qcom_opensource_commonsys-intf_bluetooth" remote="github" revision="thirteen" />
 
+<!-- Remove -->
+<remove-project name="PixelExperience-Devices/device_qcom_common" />
+
 </manifest>
