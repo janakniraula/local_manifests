@@ -7,9 +7,6 @@
 <!-- Kernel -->
 <project path="kernel/xiaomi/msm8937" name="LineageOS/android_kernel_xiaomi_msm8937" remote="github" clone-depth="1" revision="lineage-21" />
 
-<!-- HALs -->
-<project path="hardware/mithorium-4.19" name="MI439-CLO/android_hardware_mithorium-4.19" remote="github" clone-depth="1" revision="udc-k4.19" />
-
 <!-- GPS -->
 <project path="hardware/qcom-caf/gps-legacy" name="MI439-CLO/android_hardware_qcom_gps" remote="github" revision="uvite-legacy-component" />
    
@@ -21,6 +18,6 @@
 <project path="vendor/qcom/common" name="ThankYouMario/proprietary_vendor_qcom_common" remote="github" clone-depth="1" revision="uvite" />
 
 <!-- Vendor Opensource -->
-<project path="vendor/qcom/opensource/core-utils" name="MI439-CLO/android_vendor_qcom-opensource_core-utils" remote="github" revision="uvite" />
+<project path="vendor/qcom/opensource/core-utils" name="janakniraula/android_vendor_qcom-opensource_core-utils" remote="github" revision="uvite" />
 
 </manifest>
